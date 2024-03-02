@@ -1,3 +1,4 @@
 C:/Users/vertr/OneDrive/Escritorio/Parcial1/cmake-build-debug/CMakeFiles/Parcial1.dir
+C:/Users/vertr/OneDrive/Escritorio/Parcial1/cmake-build-debug/CMakeFiles/CicloFor.dir
 C:/Users/vertr/OneDrive/Escritorio/Parcial1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/vertr/OneDrive/Escritorio/Parcial1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
